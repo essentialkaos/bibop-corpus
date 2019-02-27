@@ -1,0 +1,10 @@
+command:w d
+command: d
+command:p p
+command: d
+command:p p
+command:x d 
+command:x :
+command: d
+command:p :
+command:p {
